@@ -11,7 +11,7 @@ Some details about how the disease is spread are still being determined. The WHO
 The objective of this work is to analyze the confirmed, death, active, recovered cases and mortality rate (per 100) of the different geographical locations of the world.
  
   <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/world.JPG>
 </p>
 
 # Continent wise Analysis:
@@ -20,7 +20,7 @@ As we know this has been a pandemic for the world we can easily conclude that th
 * Tabular Data:
 
   <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/continent.JPG>
 </p>
 (Continent wise tabular data)
 
@@ -33,31 +33,27 @@ Australia which is far away from other continents has less affected cases compar
 # Confirmed cases in different continents:
 
   <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/continent_trend.JPG>
 </p>
 
 # Death cases in different Continents:
 
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/death-coninent.JPG>
 </p>
  
 # Mortality Rate:
 We can see that the mortality rate of different continents varies. The high mortality is found in Europe whereas the low mortality rate is in Australia. It seems to be the mortality rate of the whole world is increasing day by day.  
  
   <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/mr1.JPG>
 </p>
 
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/mr2.JPG>
 </p>
 
 # Global Heat map:
-
- <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
-</p>
 
 # Confirmed cases:
 
@@ -78,53 +74,49 @@ Italy which is a country of European continent though it has the second number o
   
   
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/high_cof_mr.JPG>
 </p>
 
 High Mortality Rate Countries
 
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/hih_death_mr.JPG>
 </p>
 
 Highest number of deaths in countries
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/death_trend.JPG>
 </p> 
  
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/deathhigh_country.JPG>
 </p>
 
 Various Affected Countries:
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/pak.JPG>
 </p>
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/usa.JPG>
 </p>
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/china_uk.JPG>
 </p>
 
-<p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
-</p>
-
-Spread Analysis of COVID-19:
+# Spread Analysis of COVID-19:
 The following graph indicates the spread of COVID-19 from 22nd Jan increased linearly till the last of Jan then the curve remains flattened around 25th of Feb. After that, the affected no of countries increased linearly to reach around 160 countries. Then it seems to be slow down.  
  
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/spd.JPG>
 </p>
 
 # India Case Study:
 A total of 31 Indian states and union territories has been affected by COVID-19. The mortality rate is 3.59% whereas in Asia the number is 3.68%. It might increase with the increase in the number of cases. 	
  
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/india_total.JPG>
 </p>
 
 # Indian map visualization: 
@@ -137,14 +129,14 @@ A total of 31 Indian states and union territories has been affected by COVID-19.
 In India mortality rate also varies in different geographical locations. The highest mortality rate of state Jharkhand  is 10% though the number of cases is very less. If we consider Maharastra which has the highest number of cases. The mortality rate is 5%. Odisha holds the 12th position in terms of mortality rate.
  
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/india_mr.JPG>
 </p>
 
 # Confirmed Cases Comparison of Different Countries and India: 
 India comes in the 10th position in comparison to confirmed cases with other countries. 
  
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/cof_trends.JPG>
 </p>
  
 # Tests In India:
@@ -158,15 +150,15 @@ India comes in the 10th position in comparison to confirmed cases with other cou
 The origin-country of COVID-19 has managed to flatten its confirm cases curve as well as death cases. Italy has a 3 times higher mortality rate in China.
  
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/china_total.JPG>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/china-top.JPG>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/china_vs_rest_death.JPG>
 </p>
 
 <p align="center">
@@ -174,10 +166,21 @@ The origin-country of COVID-19 has managed to flatten its confirm cases curve as
 </p>
 
  
-USA Case Study
+# USA Case Study
 The USA is the most affected country of COVID-19. The number of cases is increasing rapidly. The mortality rate is also adding more numbers to it. The most affected state in the USA is New York. The mortality rate is also high among all states in the USA.
  
-    
+<p align="center">
+  <img width="460" height="300" src=Images/usa_total.JPG>
+</p>
+
+<p align="center">
+  <img width="460" height="300" src=Images/usa_conf.JPG>
+</p>
+
+<p align="center">
+  <img width="460" height="300" src=Images/usa__death.JPG>
+</p>
+
 # Prediction: 
 
 # Neural Network:
@@ -191,13 +194,13 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 Next ten days prediction of confirmed class:
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/nn_pred_conf.JPG>
 </p> 
 
 Next ten days prediction of death classes:
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/nn_pred_death.JPG>
 </p>
  
 # Support Vector Machine:
@@ -209,12 +212,12 @@ Where, w is considered as a normalized vector to the hyperplane, x set of points
 # Confirmed class Prediction:
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/svm_pred_conf.JPG>
 </p>
  
 # Death class Prediction:
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/svm_pred_death.JPG>
 </p>
 
 # Remark:
