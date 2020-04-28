@@ -58,13 +58,13 @@ We can see that the mortality rate of different continents varies. The high mort
 # Confirmed cases:
 
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/world_conf_cases_heat_map.JPG>
 </p>
 
 # Death cases:
 	
  <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/World_death_cases_heat_map.JPG>
 </p>
 
 # Country Wise Analysis:
@@ -122,7 +122,7 @@ A total of 31 Indian states and union territories has been affected by COVID-19.
 # Indian map visualization: 
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/india.JPG>
 </p>
  
 # The affected States of Confirmed cases in India: 
@@ -142,13 +142,17 @@ India comes in the 10th position in comparison to confirmed cases with other cou
 # Tests In India:
 
 <p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
+  <img width="460" height="300" src=Images/Test_India.png>
 </p>
  
 
 # China Case Study:
 The origin-country of COVID-19 has managed to flatten its confirm cases curve as well as death cases. Italy has a 3 times higher mortality rate in China.
- 
+
+<p align="center">
+  <img width="460" height="300" src=Images/china_map.JPG>
+</p>
+
 <p align="center">
   <img width="460" height="300" src=Images/china_total.JPG>
 </p>
@@ -160,17 +164,17 @@ The origin-country of COVID-19 has managed to flatten its confirm cases curve as
 <p align="center">
   <img width="460" height="300" src=Images/china_vs_rest_death.JPG>
 </p>
-
-<p align="center">
-  <img width="460" height="300" src=Images/popu.JPG>
-</p>
-
  
 # USA Case Study
 The USA is the most affected country of COVID-19. The number of cases is increasing rapidly. The mortality rate is also adding more numbers to it. The most affected state in the USA is New York. The mortality rate is also high among all states in the USA.
- 
+
+
 <p align="center">
-  <img width="460" height="300" src=Images/usa_total.JPG>
+  <img width="100" height="50" src=Images/usa_total.JPG>
+</p>
+
+<p align="center">
+  <img width="460" height="300" src=Images/usa_map.JPG>
 </p>
 
 <p align="center">
@@ -212,12 +216,12 @@ Where, w is considered as a normalized vector to the hyperplane, x set of points
 # Confirmed class Prediction:
 
 <p align="center">
-  <img width="460" height="300" src=Images/svm_pred_conf.JPG>
+  <img width="200" height="300" src=Images/svm_pred_conf.JPG>
 </p>
  
 # Death class Prediction:
 <p align="center">
-  <img width="460" height="300" src=Images/svm_pred_death.JPG>
+  <img width="200" height="300" src=Images/svm_pred_death.JPG>
 </p>
 
 # Remark:
