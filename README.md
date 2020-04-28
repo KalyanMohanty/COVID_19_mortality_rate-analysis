@@ -170,11 +170,11 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 
 
 <p align="center">
-  <img width="700" height="50" src=Images/usa_total.JPG>
+  <img width="800" height="100" src=Images/usa_total.JPG>
 </p>
 
 <p align="center">
-  <img width="700" height="500" src=Images/usa_map.JPG>
+  <img width="800" height="500" src=Images/usa_map.JPG>
 </p>
 
 <p align="center">
@@ -190,9 +190,13 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 # Neural Network:
 
 	A deep neural network (DNN) is an artificial neural network (ANN) with multiple layers between the input and output layers.
+	
 	The DNN finds the correct mathematical manipulation to turn the input into the output, whether it be a linear relationship or a non-linear relationship.
+	
 	The network moves through the layers calculating the probability of each output. For example, a DNN that is trained to recognize dog breeds will go over the given image and calculate the probability that the dog in the image is a certain breed.
+	
 	The user can review the results and select which probabilities the network should display (above a certain threshold, etc.) and return the proposed label. Each mathematical manipulation as such is considered a layer, and complex DNN has many layers, hence the name "deep" networks.
+	
 	In this work, DNN is used to predict the increasing number of cases and confirmed deaths over time.
 
 Next ten days prediction of confirmed class:
