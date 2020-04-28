@@ -11,7 +11,7 @@ Some details about how the disease is spread are still being determined. The WHO
 The objective of this work is to analyze the confirmed, death, active, recovered cases and mortality rate (per 100) of the different geographical locations of the world.
  
   <p align="center">
-  <img width="460" height="300" src=Images/world.JPG>
+  <img width="700" height="100" src=Images/world.JPG>
 </p>
 
 # Continent wise Analysis:
@@ -20,7 +20,7 @@ As we know this has been a pandemic for the world we can easily conclude that th
 * Tabular Data:
 
   <p align="center">
-  <img width="400" height="100" src=Images/continent.JPG>
+  <img width="500" height="400" src=Images/continent.JPG>
 </p>
 (Continent wise tabular data)
 
@@ -33,24 +33,24 @@ Australia which is far away from other continents has less affected cases compar
 # Confirmed cases in different continents:
 
   <p align="center">
-  <img width="460" height="300" src=Images/continent_trend.JPG>
+  <img width="500" height="400" src=Images/continent_trend.JPG>
 </p>
 
 # Death cases in different Continents:
 
  <p align="center">
-  <img width="460" height="300" src=Images/death-coninent.JPG>
+  <img width="500" height="400" src=Images/death-coninent.JPG>
 </p>
  
 # Mortality Rate:
 We can see that the mortality rate of different continents varies. The high mortality is found in Europe whereas the low mortality rate is in Australia. It seems to be the mortality rate of the whole world is increasing day by day.  
  
   <p align="center">
-  <img width="460" height="300" src=Images/mr1.JPG>
+  <img width="500" height="400" src=Images/mr1.JPG>
 </p>
 
  <p align="center">
-  <img width="460" height="300" src=Images/mr2.JPG>
+  <img width="500" height="400" src=Images/mr2.JPG>
 </p>
 
 # Global Heat map:
@@ -58,13 +58,13 @@ We can see that the mortality rate of different continents varies. The high mort
 # Confirmed cases:
 
  <p align="center">
-  <img width="460" height="300" src=Images/world_conf_cases_heat_map.JPG>
+  <img width="600" height="400" src=Images/world_conf_cases_heat_map.JPG>
 </p>
 
 # Death cases:
 	
  <p align="center">
-  <img width="460" height="300" src=Images/World_death_cases_heat_map.JPG>
+  <img width="600" height="400" src=Images/World_death_cases_heat_map.JPG>
 </p>
 
 # Country Wise Analysis:
@@ -154,7 +154,7 @@ The origin-country of COVID-19 has managed to flatten its confirm cases curve as
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=Images/china_total.JPG>
+  <img width="700" height="100" src=Images/china_total.JPG>
 </p>
 
 <p align="center">
@@ -170,7 +170,7 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 
 
 <p align="center">
-  <img width="100" height="50" src=Images/usa_total.JPG>
+  <img width="700" height="100" src=Images/usa_total.JPG>
 </p>
 
 <p align="center">
