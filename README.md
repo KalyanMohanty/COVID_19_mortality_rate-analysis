@@ -20,7 +20,7 @@ As we know this has been a pandemic for the world we can easily conclude that th
 * Tabular Data:
 
   <p align="center">
-  <img width="460" height="300" src=Images/continent.JPG>
+  <img width="400" height="100" src=Images/continent.JPG>
 </p>
 (Continent wise tabular data)
 
