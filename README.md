@@ -102,7 +102,7 @@ Various Affected Countries:
   <img width="460" height="300" src=Images/usa.JPG>
 </p>
 <p align="center">
-  <img width="600" height="400" src=Images/china_uk.JPG>
+  <img width="750" height="400" src=Images/china_uk.JPG>
 </p>
 
 # Spread Analysis of COVID-19:
@@ -154,10 +154,6 @@ The origin-country of COVID-19 has managed to flatten its confirm cases curve as
 </p>
 
 <p align="center">
-  <img width="700" height="100" src=Images/china_total.JPG>
-</p>
-
-<p align="center">
   <img width="460" height="300" src=Images/china-top.JPG>
 </p>
 
@@ -170,12 +166,7 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 
 
 <p align="center">
-  <img width="800" height="100" src=Images/usa_total.JPG>
-</p>
-
-
-<p align="center">
-  <img width="800" height="400" src=Images/usa_map.JPG>
+  <img width="460" height="300" src=Images/usa_map.JPG>
 </p>
 
 <p align="center">
