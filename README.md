@@ -20,7 +20,7 @@ As we know this has been a pandemic for the world we can easily conclude that th
 * Tabular Data:
 
   <p align="center">
-  <img width="500" height="400" src=Images/continent.JPG>
+  <img width="460" height="300" src=Images/continent.JPG>
 </p>
 (Continent wise tabular data)
 
@@ -80,7 +80,7 @@ Italy which is a country of European continent though it has the second number o
 High Mortality Rate Countries
 
  <p align="center">
-  <img width="700" height="400" src=Images/hih_death_mr.JPG>
+  <img width="460" height="300" src=Images/hih_death_mr.JPG>
 </p>
 
 Highest number of deaths in countries
@@ -102,14 +102,14 @@ Various Affected Countries:
   <img width="460" height="300" src=Images/usa.JPG>
 </p>
 <p align="center">
-  <img width="500" height="400" src=Images/china_uk.JPG>
+  <img width="600" height="400" src=Images/china_uk.JPG>
 </p>
 
 # Spread Analysis of COVID-19:
 The following graph indicates the spread of COVID-19 from 22nd Jan increased linearly till the last of Jan then the curve remains flattened around 25th of Feb. After that, the affected no of countries increased linearly to reach around 160 countries. Then it seems to be slow down.  
  
 <p align="center">
-  <img width="460" height="300" src=Images/spd.JPG>
+  <img width="700" height="400" src=Images/spd.JPG>
 </p>
 
 # India Case Study:
@@ -122,7 +122,7 @@ A total of 31 Indian states and union territories has been affected by COVID-19.
 # Indian map visualization: 
 
 <p align="center">
-  <img width="700" height="500" src=Images/india.JPG>
+  <img width="700" height="400" src=Images/india.JPG>
 </p>
  
 # The affected States of Confirmed cases in India: 
@@ -150,7 +150,7 @@ India comes in the 10th position in comparison to confirmed cases with other cou
 The origin-country of COVID-19 has managed to flatten its confirm cases curve as well as death cases. Italy has a 3 times higher mortality rate in China.
 
 <p align="center">
-  <img width="700" height="500" src=Images/china_map.JPG>
+  <img width="700" height="400" src=Images/china_map.JPG>
 </p>
 
 <p align="center">
@@ -170,7 +170,7 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 
 
 <p align="center">
-  <img width="700" height="100" src=Images/usa_total.JPG>
+  <img width="700" height="50" src=Images/usa_total.JPG>
 </p>
 
 <p align="center">
@@ -182,7 +182,7 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=Images/usa__death.JPG>
+  <img width="700" height="400" src=Images/usa__death.JPG>
 </p>
 
 # Prediction: 
