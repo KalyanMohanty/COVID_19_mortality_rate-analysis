@@ -230,9 +230,13 @@ Where, w is considered as a normalized vector to the hyperplane, x set of points
 
 # Remark:
 	The mortality rate of COVID-19 varies in different geographical locations.
+	
 	If we compare three countries India, China, and the USA. China has the highest mortality rate of 4.03 which comes under continent Asia. Asia comes in 5th position in terms of mortality rate i.e. 3.69.
+	
 	The most affected country the USA has a mortality rate of 3.97 which is a country in North America. North America has a mortality rate of 3.05 which holds the 4th position.
+	
 	India has the less number of mortality rate compared to china and USA i.e 3.59
+	
 	If the cases grow in this way the world will face new confirmed cases next week is near about 2.5 million whereas the death cases will grow to 2.5 lacks. And the mortality rate will become 10 per 100 people.
 
 
