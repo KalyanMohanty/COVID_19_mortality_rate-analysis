@@ -173,8 +173,9 @@ The USA is the most affected country of COVID-19. The number of cases is increas
   <img width="800" height="100" src=Images/usa_total.JPG>
 </p>
 
+
 <p align="center">
-  <img width="800" height="500" src=Images/usa_map.JPG>
+  <img width="800" height="400" src=Images/usa_map.JPG>
 </p>
 
 <p align="center">
