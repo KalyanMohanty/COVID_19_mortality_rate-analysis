@@ -33,24 +33,24 @@ Australia which is far away from other continents has less affected cases compar
 # Confirmed cases in different continents:
 
   <p align="center">
-  <img width="500" height="400" src=Images/continent_trend.JPG>
+  <img width="700" height="400" src=Images/continent_trend.JPG>
 </p>
 
 # Death cases in different Continents:
 
  <p align="center">
-  <img width="500" height="400" src=Images/death-coninent.JPG>
+  <img width="700" height="400" src=Images/death-coninent.JPG>
 </p>
  
 # Mortality Rate:
 We can see that the mortality rate of different continents varies. The high mortality is found in Europe whereas the low mortality rate is in Australia. It seems to be the mortality rate of the whole world is increasing day by day.  
  
   <p align="center">
-  <img width="500" height="400" src=Images/mr1.JPG>
+  <img width="700" height="400" src=Images/mr1.JPG>
 </p>
 
  <p align="center">
-  <img width="500" height="400" src=Images/mr2.JPG>
+  <img width="700" height="400" src=Images/mr2.JPG>
 </p>
 
 # Global Heat map:
@@ -58,13 +58,13 @@ We can see that the mortality rate of different continents varies. The high mort
 # Confirmed cases:
 
  <p align="center">
-  <img width="600" height="400" src=Images/world_conf_cases_heat_map.JPG>
+  <img width="700" height="400" src=Images/world_conf_cases_heat_map.JPG>
 </p>
 
 # Death cases:
 	
  <p align="center">
-  <img width="600" height="400" src=Images/World_death_cases_heat_map.JPG>
+  <img width="700" height="400" src=Images/World_death_cases_heat_map.JPG>
 </p>
 
 # Country Wise Analysis:
@@ -80,17 +80,17 @@ Italy which is a country of European continent though it has the second number o
 High Mortality Rate Countries
 
  <p align="center">
-  <img width="460" height="300" src=Images/hih_death_mr.JPG>
+  <img width="700" height="400" src=Images/hih_death_mr.JPG>
 </p>
 
 Highest number of deaths in countries
 
 <p align="center">
-  <img width="460" height="300" src=Images/death_trend.JPG>
+  <img width="7000" height="400" src=Images/death_trend.JPG>
 </p> 
  
 <p align="center">
-  <img width="460" height="300" src=Images/deathhigh_country.JPG>
+  <img width="700" height="400" src=Images/deathhigh_country.JPG>
 </p>
 
 Various Affected Countries:
@@ -102,7 +102,7 @@ Various Affected Countries:
   <img width="460" height="300" src=Images/usa.JPG>
 </p>
 <p align="center">
-  <img width="460" height="300" src=Images/china_uk.JPG>
+  <img width="500" height="400" src=Images/china_uk.JPG>
 </p>
 
 # Spread Analysis of COVID-19:
@@ -116,27 +116,27 @@ The following graph indicates the spread of COVID-19 from 22nd Jan increased lin
 A total of 31 Indian states and union territories has been affected by COVID-19. The mortality rate is 3.59% whereas in Asia the number is 3.68%. It might increase with the increase in the number of cases. 	
  
  <p align="center">
-  <img width="460" height="300" src=Images/india_total.JPG>
+  <img width="700" height="100" src=Images/india_total.JPG>
 </p>
 
 # Indian map visualization: 
 
 <p align="center">
-  <img width="460" height="300" src=Images/india.JPG>
+  <img width="700" height="500" src=Images/india.JPG>
 </p>
  
 # The affected States of Confirmed cases in India: 
 In India mortality rate also varies in different geographical locations. The highest mortality rate of state Jharkhand  is 10% though the number of cases is very less. If we consider Maharastra which has the highest number of cases. The mortality rate is 5%. Odisha holds the 12th position in terms of mortality rate.
  
 <p align="center">
-  <img width="460" height="300" src=Images/india_mr.JPG>
+  <img width="460" height="500" src=Images/india_mr.JPG>
 </p>
 
 # Confirmed Cases Comparison of Different Countries and India: 
 India comes in the 10th position in comparison to confirmed cases with other countries. 
  
 <p align="center">
-  <img width="460" height="300" src=Images/cof_trends.JPG>
+  <img width="700" height="400" src=Images/cof_trends.JPG>
 </p>
  
 # Tests In India:
@@ -150,7 +150,7 @@ India comes in the 10th position in comparison to confirmed cases with other cou
 The origin-country of COVID-19 has managed to flatten its confirm cases curve as well as death cases. Italy has a 3 times higher mortality rate in China.
 
 <p align="center">
-  <img width="460" height="300" src=Images/china_map.JPG>
+  <img width="700" height="500" src=Images/china_map.JPG>
 </p>
 
 <p align="center">
@@ -174,7 +174,7 @@ The USA is the most affected country of COVID-19. The number of cases is increas
 </p>
 
 <p align="center">
-  <img width="460" height="300" src=Images/usa_map.JPG>
+  <img width="700" height="500" src=Images/usa_map.JPG>
 </p>
 
 <p align="center">
